@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(96, 83, 244);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+.menu{
+    color: white;
+}
+
+.conteudo{
+    color: white;
+}
+
+.conteudo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
